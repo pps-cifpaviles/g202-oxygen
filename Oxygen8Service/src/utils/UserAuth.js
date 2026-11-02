@@ -48,4 +48,8 @@ class UserAuth{
   }
 
   
+<<<<<<< HEAD
 module.exports = UserAuth;
+=======
+module.exports = UserAuth;
+>>>>>>> release/0.2.1

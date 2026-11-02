@@ -35,8 +35,11 @@ app.use(cors());
 
 // Database connection
 const mongoUri = process.env.MONGODB_URI;
+HEAD
 console.log("mongoUri:"+mongoUri);
 console.log("mongoUser:"+process.env.MONGODB_USER);
+console.log("Conectando a MongoDB…");
+release/0.2.1
 mongoose.connect(mongoUri,{user:process.env.MONGODB_USER, pass:process.env.MONGODB_PASS, authSource:process.env.MONGODB_AUTHSRC});
 
 // compress all responses

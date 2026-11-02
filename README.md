@@ -228,7 +228,10 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 - En los ficheros de rutas, `router` se declara como variable global, y la ruta `updateactivity` tiene una comilla de más en su patrón.
 
 ## Colaboradores
+<<<<<<< HEAD
 Sara Fernandez Ramos, saracervo19-bit
+=======
+>>>>>>> release/0.2.1
 
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
 Irene Cid
@@ -236,6 +239,7 @@ Irene Cid
 ## Licencia y uso
 
 Proyecto docente de ejemplo para clases de DevOps y DevSecOps. Código original de Oxygen: [cidinene/oxygen](https://github.com/cidinene/oxygen).
+<<<<<<< HEAD
 HEAD
 
 
@@ -244,3 +248,5 @@ Sara Fernández https://github.com/saracervo19-bit
 prueba
 prueba
  origin/develop
+=======
+>>>>>>> release/0.2.1
